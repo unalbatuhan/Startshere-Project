@@ -1,0 +1,16 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Galeri",
+    "Icon": "/Assets/DataImages/flickr.png",
+    "Target": "GaleriListPage",
+    "_id": "495ae802-18e2-441f-92d8-a0ced8b6d4b1"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Videolar",
+    "Icon": "/Assets/DataImages/youtube.png",
+    "Target": "VideolarListPage",
+    "_id": "8d83a02b-2a0a-4c98-a7f8-8b5caa868d1e"
+  }
+]

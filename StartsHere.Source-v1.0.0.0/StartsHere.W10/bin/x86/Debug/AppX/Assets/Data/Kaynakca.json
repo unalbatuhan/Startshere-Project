@@ -1,0 +1,44 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Microsoft Subnetting",
+    "Icon": "/Assets/DataImages/rss.png",
+    "Target": "MicrosoftSubnettingListPage",
+    "_id": "adc510e6-3d1a-4df5-90bf-e156ef6865b4"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Cisco Subnetting",
+    "Icon": "/Assets/DataImages/rss.png",
+    "Target": "CiscoSubnettingListPage",
+    "_id": "0176fd3b-962f-4d2a-8ed9-cc63a6255c9f"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Ağ Teknolojileri",
+    "Icon": "/Assets/DataImages/rss.png",
+    "Target": "AgTeknolojileriListPage",
+    "_id": "fbb18f3f-4ee9-4056-a0d3-0be3a8ced8d4"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Bulut Bilişim",
+    "Icon": "/Assets/DataImages/rss.png",
+    "Target": "BulutBilisimListPage",
+    "_id": "edf4ce64-bb95-401a-b383-155ae9ff39b4"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Infrastructure",
+    "Icon": "/Assets/DataImages/rss.png",
+    "Target": "InfrastructureListPage",
+    "_id": "e376add1-d562-425d-8aef-3d0b9b7d0bf5"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "İşletim Sistemleri",
+    "Icon": "/Assets/DataImages/rss.png",
+    "Target": "IsletimSistemleriListPage",
+    "_id": "09c4a13f-43fc-4054-8923-b1f41defbfa5"
+  }
+]

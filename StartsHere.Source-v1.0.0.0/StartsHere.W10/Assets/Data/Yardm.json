@@ -1,0 +1,37 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Geliştirici",
+    "Icon": "/Assets/DataImages/html.png",
+    "Target": "GelistiriciListPage",
+    "_id": "85779501-5def-40b3-b3a3-23a91e397fd2"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Web Sayfası",
+    "Icon": "/Assets/DataImages/url.png",
+    "Target": "http://unalbatuhan.azurewebsites.net/",
+    "_id": "0e809831-c936-4bc0-88ef-43f2b035959c"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Geliştiriciye Mail At",
+    "Icon": "/Assets/DataImages/mailto.png",
+    "Target": "mailto:unal.batuhan@outlook.com",
+    "_id": "6e63bce9-a825-43f5-8821-3976233ca84c"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Harita",
+    "Icon": "/Assets/DataImages/bingmaps.png",
+    "Target": "bingmaps:?collection=point.41.06072998046875_28.987770080566406_Istanbul&lvl=18",
+    "_id": "6e099a42-1875-434d-afd6-bb58b753137d"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "İletişim",
+    "Icon": "/Assets/DataImages/callto.png",
+    "Target": "tel:+90 531 3348075",
+    "_id": "8b7a2590-3379-4dc8-ba8e-f7633a8b4677"
+  }
+]

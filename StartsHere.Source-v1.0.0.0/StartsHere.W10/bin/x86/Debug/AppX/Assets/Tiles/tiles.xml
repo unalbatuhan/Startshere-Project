@@ -1,0 +1,16 @@
+<tile>
+  <visual branding="none" displayName="Starts Here">
+    <binding template="TileMedium">
+      <image src="ms-appx:///Assets/DataImages/splash1.png" placement="background" />
+      <text hint-maxLines="5" hint-style="titleSubtle">Starts Here</text>
+    </binding>
+    <binding template="TileWide">
+      <image src="ms-appx:///Assets/DataImages/splash1.png" placement="background" />
+      <text hint-maxLines="5" hint-style="titleSubtle">Starts Here</text>
+    </binding>
+    <binding template="TileLarge">
+      <image src="ms-appx:///Assets/DataImages/splash1.png" placement="background" />
+      <text hint-maxLines="5" hint-style="titleSubtle">Starts Here</text>
+    </binding>
+  </visual>
+</tile>

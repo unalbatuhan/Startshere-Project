@@ -1,0 +1,809 @@
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\App.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListBigHorizontalCardBox.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListBigHorizontalCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\MenuBig.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListBigVerticalCardBox.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListBigVerticalCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListContactCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\MenuMedium.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListPhoto.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\MenuSmall.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListTextCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\MenuText.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\CarouselBig.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\CarouselMedium.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListGroupedHome.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\ListGrouped.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\List\HtmlSection.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Detail\PhotoDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Detail\TextDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Detail\YouTubeDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Controls\DataUpdateInformationControl.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Controls\SectionListItemHeader.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Controls\HeroImage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Layouts\Controls\AdvertisingControl.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\HomePage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AgCihazlarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\UrunVeServisListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AgYazlmListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\TrendOlanlarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AglarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\YeniGelismelerListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\KaynakcaListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\MicrosoftSubnettingListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\CiscoSubnettingListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AgTeknolojileriListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\BulutBilisimListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\InfrastructureListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\IsletimSistemleriListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\DigerListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\GaleriListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\VideolarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\YardmListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\GelistiriciListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AboutPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AgCihazlarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\UrunVeServisDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AgYazlmDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\TrendOlanlarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AglarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\YeniGelismelerDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\MicrosoftSubnettingDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\CiscoSubnettingDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\AgTeknolojileriDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\BulutBilisimDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\InfrastructureDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\IsletimSistemleriDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\GaleriDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\VideolarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\SearchPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\FavoritesPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Pages\ShellPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\AppBarButtons.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\AppTheme.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\ButtonStyles.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\DefaultTheme.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\FontSizes.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\AppColors.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\SectionListStyles.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Styles\DetailStyles.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\StartsHere.W10.xr.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\StartsHere.W10.exe
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\StartsHere.W10.pdb
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\resources.pri
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\AppxManifest.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Core\StartsHere.W10.exe
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\StartsHere.build.appxrecipe
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.AdMediator.Core.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.AdMediator.Universal.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.AdMediator.Universal.MicrosoftAdvertising.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Core.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Numerics.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Windows.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Xml.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.AppContext.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Collections.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Data.Common.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Globalization.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.IO.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\ClrCompression.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Linq.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.Http.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Threading.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\AppStudio.DataProviders.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\bin\x86\Debug\AppStudio.Uwp.dll
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.g.i.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppBarButtons.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppTheme.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\ButtonStyles.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DefaultTheme.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\FontSizes.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppColors.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\SectionListStyles.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DetailStyles.xaml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppBarButtons.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppTheme.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\ButtonStyles.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DefaultTheme.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\FontSizes.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppColors.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\SectionListStyles.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DetailStyles.xbf
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\StartsHere.W10.exe
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\StartsHere.W10.pdb
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\StartsHere.csproj.GenerateResource.Cache
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\priconfig.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\layout.resfiles
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\resources.resfiles
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\pri.resfiles
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\qualifiers.txt
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\AppStudio.DataProviders.pri.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\AppStudio.Uwp.pri.xml
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Batuhan\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\StartsHere.csprojResolveAssemblyReference.cache
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\StartsHere.csprojResolveAssemblyReference.cache
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.g.i.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppBarButtons.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppTheme.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\ButtonStyles.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DefaultTheme.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\FontSizes.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppColors.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\SectionListStyles.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DetailStyles.xaml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\App.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCardBox.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigHorizontalCard.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuBig.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCardBox.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListBigVerticalCard.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListContactCard.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuMedium.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListPhoto.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuSmall.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListTextCard.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\MenuText.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselBig.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\CarouselMedium.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGroupedHome.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\ListGrouped.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\List\HtmlSection.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\MultiColumnDetailLayout.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\PhotoDetailLayout.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\TextDetailLayout.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\YouTubeDetailLayout.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Detail\RelatedContentDetailLayout.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\DataUpdateInformationControl.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\SectionListItemHeader.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\HeroImage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Layouts\Controls\AdvertisingControl.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\HomePage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\KaynakcaListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\DigerListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YardmListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GelistiriciListPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AboutPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgCihazlarDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\UrunVeServisDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgYazlmDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\TrendOlanlarDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AglarDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\YeniGelismelerDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\MicrosoftSubnettingDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\CiscoSubnettingDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\AgTeknolojileriDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\BulutBilisimDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\InfrastructureDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\IsletimSistemleriDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\GaleriDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\VideolarDetailPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\SearchPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\FavoritesPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Pages\ShellPage.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppBarButtons.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppTheme.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\ButtonStyles.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DefaultTheme.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\FontSizes.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\AppColors.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\SectionListStyles.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\Styles\DetailStyles.xbf
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\XamlSaveStateFile.xml
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\StartsHere.W10.exe
+D:\15.09.2016 backup\Documents\StartsHere.Source-v1.0.0.0\StartsHere.W10\obj\x86\Debug\StartsHere.W10.pdb
